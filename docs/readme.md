@@ -81,3 +81,5 @@ Avec les limitations suivantes :
 ![capture1](doc/capture1.png)
 
 ![capture2](doc/capture2.png)
+
+![capture3](doc/capture3.png)
