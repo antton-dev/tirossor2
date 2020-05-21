@@ -49,7 +49,7 @@ Oui ! Bien sûr ! Toute aide est la bienvenue. Si vous constatez une erreur ou r
 - email : antton.chevrier@gmail.com
 
 ## 6. Licence
-Cette oeuvre est déposée sous la license MIT.
+Cette oeuvre est déposée sous la licence MIT.
 Vous avez le droit de :
 - distribuer
 - Modifier
@@ -58,7 +58,7 @@ Vous avez le droit de :
 
 -------
 A condition de :
-- Indiquer le copyright et la license, disponible ci dessous.
+- Indiquer le copyright et la licence, disponible ci dessous.
 -----------
 Avec les limitations suivantes :
 - Responsabilité
