@@ -78,8 +78,8 @@ Avec les limitations suivantes :
 > 
 ## 7. Captures
 
-![capture1](doc/capture1.png)
+![capture1](/docs/capture1.png)
 
-![capture2](doc/capture2.png)
+![capture2](/docs/capture2.png)
 
-![capture3](doc/capture3.png)
+![capture3](/docs/capture3.png)
