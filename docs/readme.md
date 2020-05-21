@@ -23,7 +23,7 @@ Cette nouvelle version **peut** également comprendre, **sans toute fois s'y lim
 
   Vous disposer de deux façons pour installer Tirossor.
 
-1.  **Via Github** : Si vous êtes habitué à Github et à Git, vous pouvez cloner le projet via la commande `git clone https://github.com/antton-dev/tirossor2.git`
+1.  **Via Git** : Si vous êtes habitué à Github et à Git, vous pouvez cloner le projet via la commande `git clone https://github.com/antton-dev/tirossor2.git`
 
 2.  **Télécharger l'archive zip** : Si vous préférez une méthode plus visuelle, vous pouvez télécharger directement l'archive zip du projet. Pour cela, cliquez le bouton vert "clone or download" en haut à droite du projet, puis sur "download ZIP". L'archive zip sera alors téléchargée sur votre ordinateur. Vous n'avez plus qu'à la décompresser.
 
