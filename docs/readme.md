@@ -13,7 +13,7 @@ La version 2 de Tirossor est disponible ! Elle comprend les améliorations suiva
 - Message d'erreur en cas de mauvaise manipulation (notamment en cas de réponse différente de "oui" ou "non".
 - facilité d'installation : plus de fichier de dépendance, tel que les fichiers .dll. Seul le fichier .exe est nécessaire.
 
-Cette nouvelle version **peut** également comprendre, **sans toute fois s'y limité** : 
+Cette nouvelle version **peut** également comprendre, **sans toute fois s'y limiter** : 
 - Correction de fautes d'orthographe
 - amélioration de la structure du code
 - suppression des dépendances nécessaires à l'exécution du fichier .exe.
