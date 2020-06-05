@@ -41,7 +41,7 @@ Une fois l'analyse rapide terminée, une fenêtre de console s'ouvre (cf. point 
 
 ## 4. Puis-je participer à Tirossor ?
 
-Oui ! Bien sûr ! Toute aide est la bienvenue. Si vous constatez une erreur ou remarquez une amélioration à apporter, n'hésitez pas à faire une modification et faire un pull request. Si vous n'êtes pas habitué à Git et Github, ou si vous ne savez pas programmer en python, contactez-moi (cf. point 5).
+Oui ! Bien sûr ! Toute aide est la bienvenue. Si vous constatez une erreur ou remarquez une amélioration à apporter, n'hésitez pas à faire une modification et faire un pull request. Si vous n'êtes pas habitué à Git et Github, ou si vous ne savez pas programmer en python, contactez-moi (cf. point 5) ou créez une issue Github.
 
 ## 5. Comment contacter l'auteur ?
 
