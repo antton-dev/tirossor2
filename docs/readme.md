@@ -81,8 +81,8 @@ Avec les limitations suivantes :
 > 
 ## 7. Captures
 
-![capture1](/docs/capture1.png)
+![capture1](https://github.com/antton-dev/tirossor2/blob/master/docs/capture1.png)
 
-![capture2](/docs/capture2.png)
+![capture2](https://github.com/antton-dev/tirossor2/blob/master/docs/capture2.png)
 
-![capture3](/docs/capture3.png)
+![capture3](https://github.com/antton-dev/tirossor2/blob/master/docs/capture3.png)
