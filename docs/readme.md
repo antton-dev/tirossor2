@@ -61,6 +61,7 @@ Vous avez le droit de :
 -------
 A condition de :
 - Indiquer le copyright et la licence, disponible ci dessous.
+
 -----------
 Avec les limitations suivantes :
 - Responsabilité
