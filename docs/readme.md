@@ -1,6 +1,3 @@
-
-  
-
 # DOCUMENTATION DE TIROSSOR2
 
   
