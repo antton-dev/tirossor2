@@ -15,7 +15,7 @@ Cette nouvelle version **peut** également comprendre, **sans toutefois s'y limi
 - amélioration de la structure du code
 - suppression des dépendances nécessaires à l'exécution du fichier .exe.
 - stabilité du programme (notamment pour la rapidité d'exécution)
-  
+
 ## 2. Comment installer Tirossor ?
 
   Vous disposez de trois façons pour installer Tirossor.
