@@ -10,7 +10,11 @@ La version 2 de Tirossor est disponible ! Elle comprend les améliorations suiva
 - Message d'erreur en cas de mauvaise manipulation (notamment en cas de réponse différente de "oui" ou "non").
 - facilité d'installation : plus de fichier de dépendance, tel que les fichiers .dll. Seul le fichier .exe est nécessaire.
 
+<<<<<<< HEAD
 Cette nouvelle version **peut** également comprendre, **sans toutefois s'y limiter** : 
+=======
+Cette nouvelle version **peut** également comprendre, **sans toute fois s'y limiter** : 
+>>>>>>> ed9e697608e85ea2e50f1349ad21ffa14c9e5d14
 - Correction de fautes d'orthographe
 - amélioration de la structure du code
 - suppression des dépendances nécessaires à l'exécution du fichier .exe.
@@ -18,7 +22,11 @@ Cette nouvelle version **peut** également comprendre, **sans toutefois s'y limi
   
 ## 2. Comment installer Tirossor ?
 
+<<<<<<< HEAD
   Vous disposez de trois façons pour installer Tirossor.
+=======
+  Vous disposer de trois façons pour installer Tirossor.
+>>>>>>> ed9e697608e85ea2e50f1349ad21ffa14c9e5d14
 
 1.  **Via Git** : Si vous êtes habitué à Github et à Git, vous pouvez cloner le projet via la commande `git clone https://github.com/antton-dev/tirossor2.git`
 
@@ -57,7 +65,11 @@ Vous avez le droit de :
 
 -------
 A condition de :
+<<<<<<< HEAD
 - Indiquer le copyright et la licence, disponible ci-dessous.
+=======
+- Indiquer le copyright et la licence, disponible ci dessous.
+>>>>>>> ed9e697608e85ea2e50f1349ad21ffa14c9e5d14
 
 -----------
 Avec les limitations suivantes :
