@@ -1,6 +1,6 @@
 # DOCUMENTATION DE TIROSSOR2
 
-  
+
 ## 1. Qu'est-ce que Tirossor ?
 
 Tirossor est un logiciel développé en Python, dans sa version 2.7. Son but est simple : il permet de choisir aléatoirement un terme parmi une liste de mots rentrée par l'utilisateur.
